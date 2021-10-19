@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ciskow&label=Profile%20views&color=0e75b6&style=flat" alt="ciskow" /> </p>
 
-- 📝 My latest project [ecommerce](https://github.com/Ciskow/ecommerce)
+- 📝 My latest project [Sales App](https://github.com/Ciskow/sales-app)
 
 - 🌱 I’m currently learning **JavaScript/Angular**
 
