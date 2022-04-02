@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ciskow&label=Profile%20views&color=0e75b6&style=flat" alt="ciskow" /> </p>
 
-- 📝 My latest project [Sales App](https://github.com/Ciskow/sales-app)
+- 📝 My latest project [DsMovie App](https://github.com/devsuperior/sds-dsmovie)
 
-- 🌱 I’m currently learning **JavaScript/Angular**
+- 🌱 I’m currently learning **JavaScript/React**
 
 - 📫 How to reach me **franciscodsalgado@gmail.com**
 
